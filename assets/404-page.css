@@ -1,0 +1,28 @@
+*{
+ font-family: 'Roboto', sans-serif;
+}
+
+
+.bgimg{
+  background-image: url('assets/image/error.png');
+  background-size: 100% 100%;
+}
+
+#main{
+ background-color: #f50057;
+}
+
+#second{
+ background-color: #3f3d56;
+}
+a{
+ color: #fff;
+ text-decoration: none;
+}
+
+#second:hover{
+ background-color: #f50057;
+}
+a:hover{
+ color: #fff;
+}

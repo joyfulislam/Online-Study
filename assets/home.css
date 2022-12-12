@@ -1,0 +1,52 @@
+*{
+ font-family: 'Roboto', sans-serif;
+}
+p{
+ color: #6c757d;;
+}
+
+a{
+ text-decoration: none;
+ color: #000;
+}
+a:hover{
+ color: #f50057;
+}
+
+#main{
+ background-color: #f50057;
+}
+
+#second{
+ background-color: #3f3d56;
+}
+
+#pink:hover{
+ color: #f50057;
+}
+
+
+#bgimage{
+ background-image: url("../assets/image/banner.png");
+ background-size: cover;
+}
+#bgimage2{
+ background-image: url("../assets/image/middle.png");
+ background-size: cover;
+}
+
+#slideimg{
+ width: 100px;
+ height: 100px;
+}
+
+.cardwidth{
+ width: 55%;
+ height: 100%;
+}
+
+#card:hover{
+ transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+ transition: 0.3s;
+}
